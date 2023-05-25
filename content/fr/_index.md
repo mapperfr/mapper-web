@@ -10,7 +10,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text:
+      # text:
       # Je suis développeur pour la science ouverte en archéologie au [LAMPEA](https://lampea.cnrs.fr), à la [MMSH](https://mmsh.fr) d'Aix-en-Provence, et enseignant en cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier. Je suis également le [créateur](https://mapper.fr/carnet/introducing-mapstodon/) de [mapstodon.space](https://mapstodon.space), une instance Mastodon multilingue dédiée à la cartographie qui rassemble aujourd'hui environ un millier de personnes. Je suis disponible pour réaliser des prestations [autour de la cartographie et de l'open data](https://mapper.fr/carnet/ips-geolocalise/) - [n'hésitez pas à me contacter](https://mapper.fr/#contact)!
     # design:
     #   background:
