@@ -1,0 +1,43 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+fr:
+  langaugeCode: fr-fr
+  contentDir: content/fr
+
+# Uncomment the lines below to configure your website in a second language.
+
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: Jérémy Garniaux
+  params:
+    description: Personal website of Jérémy Garniaux, geographer, mapmaker & developer
+  menu:
+    main:
+    - name: About
+      url: '#about'
+      weight: 10
+    - name: Resume
+      url: '#resume'
+      weight: 20
+    - name: Carnet
+      url: '#carnet'
+      weight: 30
+    - name: Contact
+      url: '#contact'
+      weight: 40
+
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
